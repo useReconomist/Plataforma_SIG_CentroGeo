@@ -20,8 +20,3 @@ la información que arroja son bases del Censo de Población 2020, CONAPO Margin
 
 * Zumaya Tapia Rodrigo - al.rzumaya@centrogeo.edu.mx
 * Noé Osorio García - al.nosorio@centrogeo.edu.mx
-
-**Asesores**
-
-* Mtra. Paulina Paredes: pparedes@centrogeo.edu.mx
-* Mtro. Jesús Trujillo Almeida: jtrujillo@centrogeo.edu.mx
